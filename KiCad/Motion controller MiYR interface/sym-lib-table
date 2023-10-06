@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "10061913-111PLF")(type "KiCad")(uri "C:/Users/voids/Documents/GitHub/controller-hardware-dev/KiCad/symbols/10061913-111PLF.kicad_sym")(options "")(descr ""))
+  (lib (name "D1213A-04S-7")(type "KiCad")(uri "C:/Users/voids/Documents/GitHub/controller-hardware-dev/KiCad/symbols/D1213A-04S-7.kicad_sym")(options "")(descr ""))
+  (lib (name "AOZ1360AIL")(type "KiCad")(uri "C:/Users/voids/Documents/GitHub/controller-hardware-dev/KiCad/symbols/AOZ1360AIL.kicad_sym")(options "")(descr ""))
+)
