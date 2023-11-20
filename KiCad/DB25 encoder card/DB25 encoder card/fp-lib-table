@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Edge connector")(type "KiCad")(uri "C:/Users/voids/Documents/GitHub/controller-hardware-dev/KiCad/footprints/Edge connector.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/voids/Documents/GitHub/controller-hardware-dev/KiCad/footprints")(options "")(descr ""))
+)
