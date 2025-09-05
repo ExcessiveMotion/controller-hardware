@@ -3,3 +3,6 @@
 KiCad/Motion controller MiYR interface/fp-info-cache
 *.lck
 KiCad/Motion controller MiYR interface/~Motion controller MiYR interface.kicad_pcb.lck
+/KiCad/DB25 encoder card/DB25 encoder card-backups
+/KiCad/fanuc rj3ib encoder breakout/fanuc rj3ib encoder breakout/fanuc rj3ib encoder breakout-backups
+/KiCad/Motion controller MiYR interface/Motion controller MiYR interface-backups
