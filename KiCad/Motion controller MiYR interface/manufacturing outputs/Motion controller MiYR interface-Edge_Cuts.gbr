@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-10-22T19:03:09-04:00*%
+%TF.ProjectId,Motion controller MiYR interface,4d6f7469-6f6e-4206-936f-6e74726f6c6c,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-10-22 19:03:09*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X128900000Y-51000000D02*
+X214900000Y-51000000D01*
+X214900000Y-249000000D01*
+X128900000Y-249000000D01*
+X128900000Y-51000000D01*
+M02*
